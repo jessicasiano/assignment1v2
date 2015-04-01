@@ -1,6 +1,8 @@
 My name is Jessica Siano and I currently live in Phoenix, AZ, but I am originally from New York.  I am a high school and college math teacher and I enrolled in this program at OSU in order to be able to change careers.
 I have two dogs and two cats, and honestly since I work two jobs while I take two classes per quarter I don't really have a lot of time for hobbies.  For now, I am just working and doing this, and occasionally hanging out with my friends.
 
+Teaching is a very fulfilling job but in my opinion it is highly undervalued.  I am in this progam at OSU so that I can get a job that will pay me what I think I am worth, and so that I won't have to work 60 hours a week just to pay my bills.
+
 #Programming Background
 My first bachelors degree is in math, but my minor was computer science.  The classes I took back them were mostly Java based so there have been some differences than with this program, however so far I have found things to be relatively easy. 
 
